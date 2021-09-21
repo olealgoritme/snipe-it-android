@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Snipe It</string>
+
+    <string name="Open">Open</string>
+
+    <string name="Close">Close</string>
+
+    <string name="comapnie_activity">Companies</string>
+
+    <string name="user_activity">Users</string>
+
+    <string name="add_asset">Add Asset</string>
+
+    <string name="add_company">Add Company</string>
+
+    <string name="edit_company">Edit Company</string>
+
+    <string name="company_data_detail">Company Details</string>
+
+    <string name="asset_data_detail">Asset Details</string>
+
+    <string name="edit_asset">Edit Asset</string>
+
+    <string name="delete_company_dialog_message">Are you sure you want to delete this item?</string>
+
+    <string name="delete_company_dialog_title">Delete Company</string>
+
+    <string name="delete_asset_dialog_message">Are you sure you want to delete this item?</string>
+
+    <string name="delete_asset_dialog_title">Delete Asset</string>
+
+    <string name="user_assigned_assets">User\'s Assets</string>
+
+    <string name="login">Login</string>
+</resources>
